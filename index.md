@@ -6,5 +6,3 @@
 - more time coding 
 
 
-
-theme: jekyll-theme-minimal
